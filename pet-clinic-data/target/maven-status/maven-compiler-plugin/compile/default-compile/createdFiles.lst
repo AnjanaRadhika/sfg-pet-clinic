@@ -1,0 +1,5 @@
+com\learn\model\Person.class
+com\learn\model\PetType.class
+com\learn\model\Owner.class
+com\learn\model\Pet.class
+com\learn\model\Vet.class
